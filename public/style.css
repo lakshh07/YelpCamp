@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital@0;1&display=swap");
+
+body {
+  font-family: "Raleway", sans-serif !important;
+}
+.bold {
+  font-weight: 700;
+  margin-right: 3rem;
+}
+.thumbnail img {
+  width: 100%;
+}
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+}
+
+#delete-form {
+  display: inline;
+}
+.camp-h2 {
+  padding: 1rem !important;
+}
+.description {
+  font-size: 2rem !important;
+}
+.section1 {
+  margin-top: 4rem;
+}
+.section1 .img {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.username-p {
+  text-decoration: underline dashed;
+  padding: 2rem;
+}
